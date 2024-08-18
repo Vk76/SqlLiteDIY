@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+#extras
+.clj-kondo/
+__pycache__/
+.ccls-cache/
+path/
+.lsp/
